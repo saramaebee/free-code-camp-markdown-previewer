@@ -1,0 +1,18 @@
+#textarea {
+	min-width: 700px;
+	max-width: 80%;
+	min-height: 300px;
+	margin: 50px 50px 50px 50px;
+	background-color: #D8E1D0;
+	border-radius: 10px;
+	outline: none;
+}
+
+.editor-background {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	background-color: #457B9D;
+	margin-bottom: 50px;
+	border-bottom: 2px solid #E63946;
+}
